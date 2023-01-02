@@ -1,0 +1,30 @@
+{
+    "name": "Rock035",
+    "id": "Rock035",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=Rock035",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Rock035_g4auzkrb/Rock035_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/Rock035_PREVIEW.png"
+    }
+}

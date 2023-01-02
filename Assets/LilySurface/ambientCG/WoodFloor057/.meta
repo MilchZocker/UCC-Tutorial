@@ -1,0 +1,30 @@
+{
+    "name": "WoodFloor057",
+    "id": "WoodFloor057",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=WoodFloor057",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/WoodFloor057_wFMlozrg/WoodFloor057_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/WoodFloor057_PREVIEW.png"
+    }
+}
